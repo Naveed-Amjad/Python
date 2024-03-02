@@ -33,9 +33,9 @@ Example usage:
 stack = Stack()
 
 # Push elements onto the stack
-stack.push(10)
-stack.push(20)
-stack.push(30)
+- stack.push(10)
+- stack.push(20)
+- stack.push(30)
 
 # Pop elements from the stack
 print(stack.pop())  # Output: 30
@@ -48,9 +48,9 @@ Example usage:
 queue = Queue()
 
 # Enqueue elements into the queue
-queue.enqueue(10)
-queue.enqueue(20)
-queue.enqueue(30)
+- queue.enqueue(10)
+- queue.enqueue(20)
+- queue.enqueue(30)
 
 # Dequeue elements from the queue
 print(queue.dequeue())  # Output: 10
